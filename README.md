@@ -4,7 +4,7 @@ Client - Server type chat application designed to enable inter-process communica
 
 Feel free to inspire yourself.
 
-# Instrukcja obsługi?
+# Instrukcja obsługi
 
 ## Komunikacja klient - server
 
